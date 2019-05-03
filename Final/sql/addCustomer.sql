@@ -1,0 +1,1 @@
+INSERT INTO FINAL_CUSTOMERS VALUES (NULL, :name, :address, :city, :zipcode, :email);

@@ -1,0 +1,1 @@
+delete from final_dogs where dogid = :id;

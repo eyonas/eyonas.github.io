@@ -1,0 +1,1 @@
+INSERT INTO FINAL_OWNERS VALUES (NULL, :username, :password, :name, :address, :city, :zipcode, :email);

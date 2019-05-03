@@ -1,0 +1,1 @@
+INSERT INTO FINAL_DOGS VALUES (NULL, :name, :breed, :age, :sex, :color, :id)
