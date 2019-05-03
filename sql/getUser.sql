@@ -1,0 +1,1 @@
+select * from final_owners where username = :username and password = :password;
